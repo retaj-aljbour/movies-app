@@ -34,7 +34,7 @@ input:focus {
 }
 
 
-button {
+buttons {
   margin: 5px;
   padding: 10px 15px;
   border: none;
@@ -46,7 +46,7 @@ button {
   font-size: 14px;
 }
 
-button:hover {
+buttons:hover {
   background-color: #555;
 }
 
