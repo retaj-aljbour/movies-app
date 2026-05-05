@@ -5,11 +5,12 @@ function About() {
 
       <p>
         This Movies project was created by
-        Retaj and Bateel.<br/>
-        id student nam=2333069 ,2333921.<br/>
+        Retaj aljbour and Bateel alomari.<br/>
+        id student num=2333069 ,2333921.<br/>
         section name :برمجة وهندسة تطبيقات الانترنت<br/>
-        dr.bashar .<br/>
+        dr.bashar al.shboul .<br/>
         section id :1.<br/>
+        
       </p>
     </div>
   );

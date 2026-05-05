@@ -107,3 +107,12 @@ buttons:hover {
   font-weight: bold;
   font-size: 18px;
 }
+nav a:hover {
+  color: #ff6600;
+}
+@media (max-width: 768px) {
+  .movies {
+    flex-direction: column;
+    align-items: center;
+  }
+}

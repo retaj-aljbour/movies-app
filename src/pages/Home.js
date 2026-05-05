@@ -24,7 +24,7 @@ function Home() {
 
   return (
     <div>
-      <h2>Movies</h2>
+      <h2>Movies List</h2>
 
       <input
         type="text"
